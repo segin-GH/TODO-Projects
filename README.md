@@ -11,4 +11,4 @@
 3. - [ ] Learn CI-CD for embedded & github actions
 4. - [ ] write a matrix multiplication in c and python; why python bcz numpy sucks
 5. - [ ] ROS
-6. - [ ] github actions
+6. - [x] github actions
