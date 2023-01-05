@@ -22,7 +22,7 @@ jobs:
     - name: Github REST API Call
       env:
         CI_TOKEN: ${{ secrets.CI_TOKEN }}
-        PARENT_REPO: <segin-GH/github-actions>
+        PARENT_REPO: segin-GH/github-actions
         PARENT_BRANCH: main
         WORKFLOW_ID: <44613976>
       run: |
