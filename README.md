@@ -12,3 +12,4 @@
 4. - [ ] write a matrix multiplication in c and python; why python bcz numpy sucks
 5. - [ ] ROS
 6. - [ ] slam from scratch
+7. - [ ] verilog
