@@ -37,6 +37,16 @@
     - [ ] Learn about robotic arms, kinematics and dynamics
     - [ ] Design and build a robotic arm using actuators and sensors
     - [ ] Learn how to control the robotic arm using embedded systems
+    
+    
+## Static Analysis Tool for STM Embedded Devices
+- [ ] Research and develop a static analysis tool for C/C++ code targeting STM embedded devices
+    - [ ] Study existing static analysis tools and understand the different types of analysis that can be performed
+    - [ ] Choose a parsing library for C/C++ code specific to STM devices 
+    - [ ] Develop the core analysis engine of the tool with a focus on finding issues specific to STM devices
+    - [ ] Implement the user interface and test the tool on sample C/C++ code for STM devices
+    - [ ] Continuously evaluate and improve the tool
+
 
 
 ## Verilog
