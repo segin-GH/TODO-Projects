@@ -6,7 +6,10 @@
 
 #  TODO
 
-## Bash
+## TDD
+- [ ] learn how to implemnt TDD for Embedded systems.
+
+## Shell scripting
 - [ ] Bash script
 
 ## Static Analysis Tool for STM Embedded Devices
