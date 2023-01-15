@@ -10,10 +10,10 @@
 - [ ] learn how to implemnt TDD for Embedded systems.
 
 ## Shell scripting
-- [ ] Bash script
+- [ ] learn shell script
 
 ## Static Analysis Tool for STM Embedded Devices
-- [ ] Research and develop a static analysis tool for C/C++ code targeting STM embedded devices
+- [ ] Research and develop a static analysis tool for C/C++ code targeting from scratch STM embedded devices
     - [ ] Study existing static analysis tools and understand the different types of analysis that can be performed
     - [ ] Choose a parsing library for C/C++ code specific to STM devices 
     - [ ] Develop the core analysis engine of the tool with a focus on finding issues specific to STM devices
