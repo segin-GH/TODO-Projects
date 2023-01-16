@@ -13,12 +13,12 @@
 - [ ] learn shell scripting. [find the repo here](https://github.com/segin-GH/Shell-Script)
 
 ## Static Analysis Tool for STM Embedded Devices
-- [ ] Research and develop a static analysis tool for C/C++ code targeting from scratch STM embedded devices
+- [ ] write a static analysis tool from scratch for STM32.
     - [ ] Study existing static analysis tools and understand the different types of analysis that can be performed
     - [ ] Choose a parsing library for C/C++ code specific to STM devices 
     - [ ] Develop the core analysis engine of the tool with a focus on finding issues specific to STM devices
     - [ ] Implement the user interface and test the tool on sample C/C++ code for STM devices
-    - [ ] Continuously evaluate and improve the tool
+    - [ ] Continuously evaluate and improve the tool 
 
 
 ## Matrix Multiplication (better than numpy)
@@ -56,7 +56,7 @@
     - [ ] Implement CI-CD pipeline for a simple embedded systems project
 
 ## vision-based control
-- [ ] Integrate vision-based control into the robotic arm
+- [ ] Integrate vision-based control into a robotic arm
     - [ ] Learn about computer vision and image processing techniques(open-cv)
     - [ ] Integrate vision-based control into the robotic arm using embedded systems and cameras
     - [ ] Test and evaluate the performance of the vision-based control in various scenarios
