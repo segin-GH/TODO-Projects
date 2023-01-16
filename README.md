@@ -7,7 +7,7 @@
 #  TODO
 
 ## TDD
-- [ ] learn how to implemnt TDD for Embedded systems.
+- [ ] learn how to implemnt TDD for Embedded systems. [find the repo here](https://github.com/segin-GH/TDD-4-Embedded)
 
 ## Shell scripting
 - [ ] learn shell script
