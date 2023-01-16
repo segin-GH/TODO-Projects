@@ -10,7 +10,7 @@
 - [ ] learn how to implemnt TDD for Embedded systems. [find the repo here](https://github.com/segin-GH/TDD-4-Embedded)
 
 ## Shell scripting
-- [ ] learn shell script
+- [ ] learn shell scripting. [find the repo here](https://github.com/segin-GH/Shell-Script)
 
 ## Static Analysis Tool for STM Embedded Devices
 - [ ] Research and develop a static analysis tool for C/C++ code targeting from scratch STM embedded devices
