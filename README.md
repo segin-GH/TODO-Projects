@@ -55,8 +55,8 @@
     - [ ] Implement CI-CD pipeline for a simple embedded systems project
 
 ## vision-based control
-- [ ] Integrate vision-based control into a robotic arm
-    - [ ] Learn about computer vision and image processing techniques(open-cv)
+- [ ] Integrate vision-based control into a robotic arm []
+    - [ ] Learn about computer vision and image processing techniques(open-cv) [find the repo here](https://github.com/segin-GH/opencv-)
     - [ ] Integrate vision-based control into the robotic arm using embedded systems and cameras
     - [ ] Test and evaluate the performance of the vision-based control in various scenarios
 
