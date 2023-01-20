@@ -1,10 +1,9 @@
-# TODO-PROJECTS
+# TODO
 
 - [x] completed project looks like this
 - [ ] projects that are still not done look like this
 
 
-#  TODO
 
 ## TDD
 - [ ] learn how to implemnt TDD for Embedded systems. [find the repo here](https://github.com/segin-GH/TDD-4-Embedded)
