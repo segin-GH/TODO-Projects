@@ -31,7 +31,7 @@
     - [ ] Create a ROS package and practice creating different nodes and publishing/subscribing to topics
 
 ## SLAM algorithms
-- [ ] write a SLAM algorithms from scratch
+- [ ] write a SLAM algorithms from scratch [find the repo here](https://github.com/segin-GH/SLAM)
     - [ ] Study the concepts and mathematical foundations of SLAM, such as feature extraction, map building and localization
     - [ ] Implement basic SLAM algorithms like EKF, UKF, Particle filter
     - [ ] Work on real-world datasets and integrate SLAM algorithms into a robotic system
