@@ -27,8 +27,8 @@
 
 
 ## Matrix Multiplication (better than numpy)
-- [ ] Implement matrix multiplication in C and Python; y python bcz numpy sucks 
-   
+- [ ] Implement matrix multiplication in C and Python; y python bcz numpy sucks  [find the repo here](https://github.com/segin-GH/Matrix-multiplication)
+
 
 ## ROS
 - [ ] Learn and work on ROS
@@ -65,10 +65,3 @@
     - [ ] Learn about computer vision and image processing techniques(open-cv) [find the repo here](https://github.com/segin-GH/opencv-)
     - [ ] Integrate vision-based control into the robotic arm using embedded systems and cameras
     - [ ] Test and evaluate the performance of the vision-based control in various scenarios
-
-## Machine Learning
-- [ ] Implement machine learning algorithms for the robotic arm control
-    - [ ] Learn about machine learning algorithms and its application in control systems
-    - [ ] Implement machine learning algorithms for the robotic arm control, such as predictive control or reinforcement learning
-    - [ ] Test and evaluate the performance of the machine learning algorithms in various scenarios
-
