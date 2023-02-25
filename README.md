@@ -5,7 +5,7 @@
 
 
 ## Matrix Multiplication (better than numpy)
-- [ ] Implement matrix multiplication in C and Python; y python bcz numpy sucks  [find the repo here](https://github.com/segin-GH/Matrix-multiplication)
+- [ ] Implement matrix multiplication in C and Python; y not use numpy? it suks probably [find the repo here](https://github.com/segin-GH/Matrix-multiplication)
 
 
 ## Machine Learning
