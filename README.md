@@ -4,12 +4,15 @@
 - [ ] projects that are still not done look like this
 
 
+## Matrix Multiplication (better than numpy)
+- [ ] Implement matrix multiplication in C and Python; y python bcz numpy sucks  [find the repo here](https://github.com/segin-GH/Matrix-multiplication)
+
+
 ## Machine Learning
 - [ ] Implement machine learning algorithms for the robotic arm control
     - [ ] Learn about machine learning algorithms and its application in control systems
     - [ ] Implement machine learning algorithms for the robotic arm control, such as predictive control or reinforcement learning
     - [ ] Test and evaluate the performance of the machine learning algorithms in various scenarios
-
 
 ## TDD
 - [ ] learn how to implemnt TDD for Embedded systems. [find the repo here](https://github.com/segin-GH/TDD-4-Embedded)
@@ -24,11 +27,6 @@
     - [ ] Develop the core analysis engine of the tool with a focus on finding issues specific to STM devices
     - [ ] Implement the user interface and test the tool on sample C/C++ code for STM devices
     - [ ] Continuously evaluate and improve the tool 
-
-
-## Matrix Multiplication (better than numpy)
-- [ ] Implement matrix multiplication in C and Python; y python bcz numpy sucks  [find the repo here](https://github.com/segin-GH/Matrix-multiplication)
-
 
 ## ROS
 - [ ] Learn and work on ROS
