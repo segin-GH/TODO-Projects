@@ -6,10 +6,10 @@
 
 
 ## TDD
-- [ x ] learn how to implemnt TDD for Embedded systems. [find the repo here](https://github.com/segin-GH/TDD-4-Embedded)
+- [x] learn how to implemnt TDD for Embedded systems. [find the repo here](https://github.com/segin-GH/TDD-4-Embedded)
 
 ## Shell scripting
-- [ x ] learn shell scripting. [find the repo here](https://github.com/segin-GH/Shell-Script)
+- [x] learn shell scripting. [find the repo here](https://github.com/segin-GH/Shell-Script)
 
 ## Static Analysis Tool for STM Embedded Devices
 - [ ] write a static analysis tool from scratch for STM32.
