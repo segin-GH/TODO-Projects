@@ -4,6 +4,12 @@
 - [ ] projects that are still not done look like this
 
 
+## Machine Learning
+- [ ] Implement machine learning algorithms for the robotic arm control
+    - [ ] Learn about machine learning algorithms and its application in control systems
+    - [ ] Implement machine learning algorithms for the robotic arm control, such as predictive control or reinforcement learning
+    - [ ] Test and evaluate the performance of the machine learning algorithms in various scenarios
+
 
 ## TDD
 - [ ] learn how to implemnt TDD for Embedded systems. [find the repo here](https://github.com/segin-GH/TDD-4-Embedded)
